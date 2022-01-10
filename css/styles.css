@@ -544,6 +544,12 @@ footer {
     border-radius: 4px;
 }
 
+.projectimage {
+    width: 20em;
+    height: 18em;
+    padding-right: 3%;
+}
+
 .project-image {
     float: left;
 }
