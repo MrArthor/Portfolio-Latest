@@ -514,6 +514,18 @@ footer {
     text-align: center;
 }
 
+#Certifications {
+    padding: 50px 15px;
+    border-bottom: 1px solid #dcd9d9;
+    text-align: center;
+}
+
+.Certificate {
+    padding-left: 20%;
+    width: 80%;
+    height: 55em;
+}
+
 #projects h2 {
     color: #374054;
     margin-bottom: 50px;
