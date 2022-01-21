@@ -824,6 +824,12 @@ footer {
     .project-image {
         display: none;
     }
+    .Certificate {
+        display: none;
+    }
+    #Certifications {
+        display: none;
+    }
     .project-info {
         position: relative;
         margin: 0;
