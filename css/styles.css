@@ -559,6 +559,14 @@ footer {
 
 .project-image {
   float: left;
+  height: 100%;
+}
+.project-image img {
+  width: 300px;
+  height: 100%;
+  min-height: 250px;
+  object-fit: cover;
+  display: block;
 }
 
 .project-info {
@@ -857,6 +865,17 @@ footer {
     font-size: 0.9em;
     padding: 5px 10px;
   }
+}
+.Certificate {
+  max-height: 600px !important;
+  object-fit: contain !important;
+  width: 100% !important;
+  margin: 0 auto !important;
+}
+
+.carousel-item {
+  background-color: transparent !important;
+  padding: 20px !important;
 }
 
 /*# sourceMappingURL=styles.css.map */
